@@ -90,3 +90,23 @@ Security is not treated as an afterthought, but as an architectural consideratio
 
 ## Repository Structure
 
+
+Each directory contains source files and documentation relevant to its enhancement category.
+
+---
+
+## Outcome Alignment
+
+This capstone demonstrates achievement of the following program outcomes:
+
+- Designing and evaluating computing solutions using algorithmic principles  
+- Applying well-founded and innovative development techniques  
+- Building collaborative, decision-support systems  
+- Delivering professional-quality technical communication  
+- Developing a security mindset that anticipates and mitigates design vulnerabilities  
+
+---
+
+## Closing Statement
+
+This portfolio reflects not only completed coursework, but growth in technical depth, architectural reasoning, and professional maturity. It demonstrates my ability to evaluate existing systems, refactor for improvement, and implement solutions aligned with performance, integrity, and long-term maintainability goals.
